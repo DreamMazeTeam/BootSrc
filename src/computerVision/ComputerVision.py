@@ -1,7 +1,8 @@
 import cv2
-import msvcrt
 import argparse
 import numpy as np
+
+
 
 #  Глобальные переменые модуля
 TAG = "ComputerVision"
